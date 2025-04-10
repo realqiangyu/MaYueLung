@@ -1,0 +1,9 @@
+{{- $title := .Title | default site.Title -}}
+<section class="hero">
+  <div class="hero-content">
+    <h1>{{ $title }}</h1>
+    {{ with .Params.description }}
+      <p>{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
