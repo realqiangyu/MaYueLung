@@ -1,7 +1,8 @@
 ---
 title: "Welcome"
 description: "A personal blog by MaYueLung"
-layout: "list"
+layout: "page"  # <--- 关键
+showTitle: true
 ---
 
 Hi, I’m **MaYueLung** 👋
