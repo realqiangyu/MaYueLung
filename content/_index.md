@@ -1,14 +1,13 @@
 ---
-title: "Welcome"
-description: "A personal blog by MaYueLung"
-layout: "page"  # <--- 关键
+title: "Welcome to MaYueLung's Blog 👋"
+layout: "hero"
 showTitle: true
+heroStyle: "center"
 ---
 
-Hi, I’m **MaYueLung** 👋
+Hi, I'm **MaYueLung** 👋
 
-Welcome to my personal blog!  
-I write about **language**, **digital culture**, and my personal thoughts.  
-This site is powered by **Hugo**, themed with **Blowfish**, and hosted on **GitHub Pages**.  
+Welcome to my personal blog.
 
-> “Speak your truth. Share your story.”
+I write about **language**, **digital culture**, and living freely.  
+This site is powered by **Hugo**, themed by **Blowfish**, and deployed via **GitHub Pages**.

@@ -9,3 +9,8 @@ defaultContentLanguage = "en"
 [languages.en]
 languageName = "English"
 weight = 1
+[params.hero]
+  backgroundColor = "#1e1e2f"   # 深蓝灰色背景，你可以换成你喜欢的颜色
+  textColor = "#ffffff"         # 白色文字
+  minHeight = "90vh"            # 占据大部分屏幕
+  overlayOpacity = 0.0          # 没有遮罩（纯色背景不需要）
