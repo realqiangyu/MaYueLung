@@ -1,8 +1,9 @@
 ---
-title: "Welcome to MaYueLung's Blog 👋"
-layout: "hero"
-showTitle: true
-heroStyle: "center"
+title: "MaYueLung"
+description: "Welcome to my personal blog."
+---
+
+I write about language, digital culture, and living freely.
 ---
 
 Hi, I'm **MaYueLung** 👋
