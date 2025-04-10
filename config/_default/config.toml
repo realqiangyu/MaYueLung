@@ -1,0 +1,11 @@
+baseURL = "https://realqiangyu.github.io/MaYueLung"
+languageCode = "en-us"
+title = "MaYueLung Blog"
+theme = "blowfish"
+defaultContentLanguage = "en"
+
+[languages]
+
+[languages.en]
+languageName = "English"
+weight = 1
