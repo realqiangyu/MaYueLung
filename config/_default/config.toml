@@ -19,4 +19,4 @@ weight = 1
   
 contentDir = "content"
 [params.homepage]
-  layout = "hero"
+layout = "hero"
