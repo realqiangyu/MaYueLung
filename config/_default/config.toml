@@ -14,7 +14,9 @@ weight = 1
   textColor = "#ffffff"         # 白色文字
   minHeight = "90vh"            # 占据大部分屏幕
   overlayOpacity = 0.0          # 没有遮罩（纯色背景不需要）
-
+  name = "MaYueLung"
+  subtitle = "Welcome to my personal blog."
+  
 contentDir = "content"
 [params.homepage]
   layout = "hero"
