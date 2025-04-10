@@ -1,6 +1,6 @@
 baseURL = "https://mayuelung.com/"
 languageCode = "en-us"
-title = "MaYueLung Blog"
+title = "MaYueLung"
 theme = "blowfish"
 defaultContentLanguage = "en"
 
